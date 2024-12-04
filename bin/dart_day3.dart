@@ -14,7 +14,6 @@ class student extends person{
   student({super.age});
   @override
   printAge() {
-    // TODO: implement printAge
   }
   @override
   void empty(){
